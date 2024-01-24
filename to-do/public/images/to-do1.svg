@@ -1,0 +1,32 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="256px" height="strokeWidthox="-4.8 -4.8 57.60 57.60" xmlns="http://www.w3.org/2000/svg" fill="#000000">
+
+<g id="SVGRepo_bgCarrier" stroke-width="0" transform="translate(10.799999999999999,10.799999999999999), scale(0.55)">
+
+<rect x="-4.8" y="-4.8" width="57.60" height="57.60" rx="0" fill="#1d4ed8" strokewidth="0"/>
+
+</g>
+
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" strokeLinejoin="round"/>
+
+<g id="SVGRepo_iconCarrier">
+
+<defs>
+
+<style>.a{fill:none;stroke:#000000;stroke-linecap:round;strokeLinejoin:round;}</style>
+
+</defs>
+
+<circle className="a" cx="32.5" cy="11" r="2.5"/>
+
+<circle className="a" cx="15.5" cy="11" r="2.5"/>
+
+<path className="a" d="M7.5,5.5a2,2,0,0,0-2,2v33a2,2,0,0,0,2,2h33a2,2,0,0,0,2-2V7.5a2,2,0,0,0-2-2Z"/>
+
+<polyline className="a" points="15.254 29.609 20.679 35.033 34.746 20.967"/>
+
+</g>
+
+</svg>
